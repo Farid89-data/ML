@@ -18,7 +18,6 @@ This project performs end-to-end **data preparation** on the classic Titanic dat
 titanic-data-preparation/
 │
 ├── data_preparation.py       # Full data preparation pipeline (clean version)
-├── data_preparation_dev.py   # Exploratory/development version with step-by-step prints
 └── README.md
 ```
 
